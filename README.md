@@ -2,7 +2,7 @@
 Online Monitoring and Alerts
 ## Project Overview
 
-[MerySpeaks.com](https://MerySpeaks.com) is a website monitoring SaaS application that tracks uptime, response times, SSL certificates, security headers, page changes, and domain expiration for user websites.
+[MerySpeak.com](https://MerySpeak.com) is a website monitoring SaaS application that tracks uptime, response times, SSL certificates, security headers, page changes, and domain expiration for user websites.
 
 ### Technology Stack
 
