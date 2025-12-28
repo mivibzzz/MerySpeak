@@ -656,7 +656,7 @@ MerySpeak ensures reliable delivery:
 
 **Delivery Tips:**
 
-- Add `noreply@meryspeak.com` to contacts or safe sender list  
+- Add `meryspeak@gmail.com` to contacts or safe sender list  
 - Check spam/junk folders if alerts are missing  
 - Ensure your account email is correct  
 - Consider filters to highlight MerySpeak alerts  
