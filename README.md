@@ -1,3 +1,5 @@
+## MerySpeak has been moved to https://webmonitor.mivibzzz.com/ and can be found in this repo: https://github.com/mivibzzz/web-monitoring
+
 # MerySpeak.com
 Online Monitoring and Alerts
 ## Project Overview
